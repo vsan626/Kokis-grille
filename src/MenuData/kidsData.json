@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chicken",
+    "price": 13.95,
+    "description": "Served with Beef Onion Soup, Hibachi Vegetables, Steamed Rice & Ice Cream (may substitute fried rice for $3.00 extra)",
+    "warning": "children under 10"
+  },
+  {
+    "name": "Shrimp",
+    "price": 13.95,
+    "description": "Served with Beef Onion Soup, Hibachi Vegetables, Steamed Rice & Ice Cream (may substitute fried rice for $3.00 extra)",
+    "warning": "children under 10"
+  },
+  {
+    "name": "Steak",
+    "price": 14.95,
+    "description": "Served with Beef Onion Soup, Hibachi Vegetables, Steamed Rice & Ice Cream (may substitute fried rice for $3.00 extra)",
+    "warning": "children under 10"
+  },
+  {
+    "name": "Filet Mignon",
+    "price": 20.95,
+    "description": "(Tenderloin) Served with Beef Onion Soup, Hibachi Vegetables, Steamed Rice & Ice Cream (may substitute fried rice for $3.00 extra)",
+    "warning": "children under 10",
+    "menuType": "Kids Dinner only"
+  }
+]

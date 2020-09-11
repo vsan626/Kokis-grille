@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mochi Ice Cream",
+    "price": 2.99,
+    "description": "Green Tea, Strawberry, or Mango"
+  },
+  {
+    "name": "Ice Cream",
+    "price": 3.50,
+    "description": "Green Tea, Chocolate, or Vanilla"
+  },
+  {
+    "name": "Banana Tempura w/ Ice Cream",
+    "price": 8.95,
+    "description": "Topped with Chocolate Syrup"
+  }
+]

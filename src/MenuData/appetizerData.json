@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Edamame (soy beans)",
+    "price": 4.50
+  },
+  {
+    "name": "Vegetable Tempura",
+    "price": 9.50
+  },
+  {
+    "name": "Calamari & Vegetable Tempura",
+    "price": 9.50
+  },
+  {
+    "name": "Shrimp & Vegetable Tempura",
+    "price": 9.50
+  },
+  {
+    "name": "Chef’s Delight Eggroll (4) ",
+    "price": 9.50
+  },
+  {
+    "name": "Gyoza (fried dumplings) (7) ",
+    "price": 9.50
+  },
+  {
+    "name": "Yaki Tofu",
+    "price": 9.50
+  },
+  {
+    "name": "Karaage Chicken",
+    "price": 9.50,
+    "description": "Japanese Fried Chicken"
+  },
+  {
+    "name": "Deep Fried Oysters (6) ",
+    "price": 11.50
+  },
+  {
+    "name": "Soft Shell Crab ",
+    "price": 11.50
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "price": 4.50,
+    "description": "Cooked with finely chopped chicken & vegetables"
+  },
+  {
+    "name": "Shrimp Fried Rice",
+    "price": 6.50
+  },
+  {
+    "name": "Steamed Rice",
+    "price": 2.00
+  },
+  {
+    "name": "Soup or Salad",
+    "price": 3.00
+  },
+  {
+    "name": "Koki’s Salad Dressing or Sauce TO GO (16oz)",
+    "price": 6.00
+  }
+]

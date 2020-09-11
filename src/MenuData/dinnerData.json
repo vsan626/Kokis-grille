@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Chef Special",
+    "price": 34.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "description1": "Center cut Filet Mignon cooked in a red wine reduction & prepared with mushrooms & asparagus",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Land And Sea (special #1)",
+    "price": 65.95,
+    "combination": "New York Steak, Chicken, Scallops & Shrimp",
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "warning": "Special for 2 people only",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Land And Sea (special #2)",
+    "price": 75.95,
+    "combination": "Lobster Tail, Filet Mignon, Chicken & Shrimp",
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "warning": "Special for 2 people only",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Mix & Match Combinations",
+    "price": 27.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "additionalDesc": "Select (2) items",
+    "warning": "(cannot choose 2 steaks or same item twice)",
+    "choices": "Sesame or Teriyaki Chicken, Shrimp, Sole Fish or Salmon, Pineapple Calamari, Scallops (+ $3.00), New York Steak (+ $4.00), Teriyaki Steak (+ $4.00), Filet Mignon (+ $7.00),Lobster Tail (+ $11.00)",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Sesame Chicken or Teriyaki Chicken",
+    "price": 20.95,
+    "description": "(White meat) Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Pineapple Calamari",
+    "price": 22.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Sole Fish or Salmon",
+    "price": 22.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Hibachi Shrimp",
+    "price": 25.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "New York or Teriyaki Steak",
+    "price": 26.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Scallops",
+    "price": 27.95,
+    "description": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Filet Mignon",
+    "price": 29.95,
+    "description": "(Tenderloin) Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "House Special Lobster Tail",
+    "price": 37.95,
+    "description": "(Tenderloin) Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Chicken Yakisoba",
+    "price": 24.95,
+    "description": "(White meat) Oriental Noodles* with choice of meat served with Soup & Salad (May add Vegetables for $6.50 and/or Chicken Fried Rice for $4.50) * Contains Egg",
+    "description1": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Shrimp Yakisoba",
+    "price": 24.95,
+    "description": "Oriental Noodles (contains egg). Served with Soup & Salad (May add Hibachi Vegetables for $6.50 and Chicken Fried Rice for $4.50)",
+    "description1": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "New York Steak Yakisoba",
+    "price": 25.95,
+    "description": "Oriental Noodles (contains egg). Served with Soup & Salad (May add Hibachi Vegetables for $6.50 and Chicken Fried Rice for $4.50)",
+    "description1": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  },
+  {
+    "name": "Vegetable Delight",
+    "price": 22.95,
+    "description": "Hibachi vegetables, Asparagus & Oriental noodles (contains egg) served with salad",
+    "description1": "Served with Beef Onion Soup, Salad, Shrimp Appetizer, Hibachi Vegetables, and Steamed Rice (may substitute Fried Rice for $3.00 extra) Fried Rice cooked with finely chopped chicken & vegetables",
+    "menuType": "Dinner"
+  }
+]

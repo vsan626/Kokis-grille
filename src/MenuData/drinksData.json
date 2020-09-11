@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Sake Cosmo",
+    "price": 7.95,
+    "description": "Sake, Vodka, Triple Sec, Cranberry Juice, Lime Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Sake Kamikaze ",
+    "price": 7.95,
+    "description": "Sake, Vodka, Triple Sec, Lime Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Apple Sake-Tini ",
+    "price": 7.95,
+    "description": "Sake, Vodka, Apple Pucker",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Japanese Mule",
+    "price": 9.95,
+    "description": "Vodka, Nigori Sake, Ginger Beer, Lime Juice, Muddled Cucumber, Ginger Root",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Tokyo Tea",
+    "price": 9.50,
+    "description": "Vodka, Gin, Rum, Tequila, Midori Sour, Sweet & Sour, Sprite",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Long Island Iced Tea ",
+    "price": 9.95,
+    "description": "Vodka, Gin, Rum, Tequila, Triple Sec, Sweet & Sour, Coke",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Mai Tai ",
+    "price": 8.95,
+    "description": "Rum, Malibu Rum, Dark Rum, Triple Sec, Pineapple Juice, Orange Juice, Grenadine",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Blue Hawaiian",
+    "price": 7.95,
+    "description": "Vodka, Malibu, Blue Curacao, Pineapple Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "VEEV Açai Refreshener",
+    "price": 7.95,
+    "description": "Veev Vodka, Lemonade, Sprite, Muddled mint, Lemon, Lime",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "The Drunken Lemonade",
+    "price": 7.95,
+    "description": "Citrus Vodka, Pink Lemonade, Cranberry Juice, Lime Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "<3 On The Beach",
+    "price": 6.95,
+    "description": "Vodka, Peach Schnapps, Orange Juice, Cranberry Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Jolly Rancher",
+    "price": 7.95,
+    "description": "Vodka, Apple Pucker, Peach Schnapps, Cranberry Juice, Lime Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Lemon Drop",
+    "price": 7.95,
+    "description": "Citrus Vodka, Triple Sec, Sweet & Sour",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Moscow Mule ",
+    "price": 8.95,
+    "description": "Vodka, Ginger Beer, Lime Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Purple Dragon",
+    "price": 8.95,
+    "description": "Chambord, Pineapple Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Apple Jack",
+    "price": 7.95,
+    "description": "Jack Daniel’s Whiskey, Apple Pucker, Cranberry Juice",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "price": 6.95,
+    "description": "Tequila, Orange Juice, Grenadine",
+    "drinkType": "Cocktail"
+  },
+  {
+    "name": "Kokumi Sake, Japan",
+    "price": 18.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kurobin “Black Bottle”, Japan",
+    "price": 16.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Sho Chiku Bai – Premium Ginjo",
+    "price": 12.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Ginjo, Japan",
+    "price": 16.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Ginjo, Japan",
+    "price": 36.00,
+    "description": "720ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Ginjo, Japan",
+    "price": 80.00,
+    "description": "1.8 liter",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Organic Ginjo, Japan",
+    "price": 18.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Organic Ginjo, Japan",
+    "price": 38.00,
+    "description": "720ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Perfect Snow, Japan",
+    "price": 16.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Kikusui Perfect Snow, Japan",
+    "price": 36.00,
+    "description": "720ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Show Chiku Bai",
+    "price": 12.95,
+    "description": "300ml",
+    "description1": "Nigori “Silky Mild” Unfiltered",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Lychee Nigori",
+    "price": 16.95,
+    "description": "375ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "So Chiku Bai – SHO Junmai Nigori",
+    "price": 42.00,
+    "description": "720ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "MIO Sparkling Sake",
+    "price": 12.95,
+    "description": "300ml",
+    "drinkType": "Cold Sake"
+  },
+  {
+    "name": "Sho Chiku Bai",
+    "price": 4.99,
+    "description": "Small",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Sho Chiku Bai",
+    "price": 7.99,
+    "description": "Large",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Sho Chiku Bai",
+    "price": 3.99,
+    "description": "Sake bomb",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Junmai Hot Sake",
+    "price": 4.99,
+    "description": "Small",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Junmai Hot Sake",
+    "price": 7.99,
+    "description": "Large",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Junmai Hot Sake",
+    "price": 3.99,
+    "description": "Sake bomb",
+    "drinkType": "Hot Sake"
+  },
+  {
+    "name": "Kendall Jackson, Chardonnay, California",
+    "price": 9.50,
+    "description": "Glass",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Kendall Jackson, Chardonnay, California",
+    "price": 34.00,
+    "description": "Bottle",
+    "drinkType": "White Wine"
+  }
+]
