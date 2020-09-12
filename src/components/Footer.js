@@ -89,10 +89,7 @@ export default function Footer() {
           <div className="row footer-bottom d-flex justify-content-between align-items-center">
             <p className="col-lg-8 col-mdcol-sm-6 -6 footer-text m-0">
               {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-              Copyright &copy;
-              <script>document.write(new Date().getFullYear());</script> All
-              rights reserved | This template is made with{' '}
-              <i className="fa fa-heart-o" aria-hidden="true"></i> by{' '}
+              Koki's Teppanyaki Grille© 2020. All rights reserved. | Template by{' '}
               <a href="https://colorlib.com" target="_blank">
                 Colorlib
               </a>

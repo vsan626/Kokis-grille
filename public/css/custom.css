@@ -5,3 +5,13 @@
 .reservation-center {
   margin: 0 auto;
 }
+
+.birthday-area {
+  background: url(../img/birthday-bg.png) no-repeat center/cover;
+  background-size: contain;
+  width: 100%;
+}
+
+.birthday-area .overlay-bg {
+  background: rgba(17, 22, 24, 0.75);
+}

@@ -3,6 +3,7 @@ import Banner from '../components/HomePageComponents/Banner';
 import About from '../components/HomePageComponents/About';
 import Menu from '../components/HomePageComponents/Menu';
 import Reservation from '../components/HomePageComponents/Reservation';
+import Birthday from '../components/HomePageComponents/Birthday';
 import Reviews from '../components/HomePageComponents/Reviews';
 
 export default class HomePage extends Component {
@@ -24,6 +25,7 @@ export default class HomePage extends Component {
         <About />
         <Reservation />
         <Menu menuRef={this.menuRef} />
+        <Birthday />
         <Reviews />
       </>
     );

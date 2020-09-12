@@ -121,44 +121,21 @@
   },
   {
     "name": "Kikusui Ginjo, Japan",
-    "price": 16.95,
-    "description": "300ml",
-    "drinkType": "Cold Sake"
-  },
-  {
-    "name": "Kikusui Ginjo, Japan",
-    "price": 36.00,
-    "description": "720ml",
-    "drinkType": "Cold Sake"
-  },
-  {
-    "name": "Kikusui Ginjo, Japan",
-    "price": 80.00,
-    "description": "1.8 liter",
+    "description": "$16.95/300ml",
+    "description1": "$36.00/720ml",
+    "description2": "$80.00/1.8 liter",
     "drinkType": "Cold Sake"
   },
   {
     "name": "Kikusui Organic Ginjo, Japan",
-    "price": 18.95,
-    "description": "300ml",
-    "drinkType": "Cold Sake"
-  },
-  {
-    "name": "Kikusui Organic Ginjo, Japan",
-    "price": 38.00,
-    "description": "720ml",
+    "description": "$18.95/300ml",
+    "description1": "$38.00/720ml",
     "drinkType": "Cold Sake"
   },
   {
     "name": "Kikusui Perfect Snow, Japan",
-    "price": 16.95,
-    "description": "300ml",
-    "drinkType": "Cold Sake"
-  },
-  {
-    "name": "Kikusui Perfect Snow, Japan",
-    "price": 36.00,
-    "description": "720ml",
+    "description": "$16.95/300ml",
+    "description1": "$36.00/720ml",
     "drinkType": "Cold Sake"
   },
   {
@@ -188,50 +165,221 @@
   },
   {
     "name": "Sho Chiku Bai",
-    "price": 4.99,
-    "description": "Small",
-    "drinkType": "Hot Sake"
-  },
-  {
-    "name": "Sho Chiku Bai",
-    "price": 7.99,
-    "description": "Large",
-    "drinkType": "Hot Sake"
-  },
-  {
-    "name": "Sho Chiku Bai",
-    "price": 3.99,
-    "description": "Sake bomb",
+    "description": "$4.99/Small",
+    "description1": "$7.99/Large",
+    "description2": "$3.99/Sake bomb",
     "drinkType": "Hot Sake"
   },
   {
     "name": "Junmai Hot Sake",
-    "price": 4.99,
-    "description": "Small",
-    "drinkType": "Hot Sake"
-  },
-  {
-    "name": "Junmai Hot Sake",
-    "price": 7.99,
-    "description": "Large",
-    "drinkType": "Hot Sake"
-  },
-  {
-    "name": "Junmai Hot Sake",
-    "price": 3.99,
-    "description": "Sake bomb",
+    "description": "$4.99/Small",
+    "description1": "$7.99/Large",
+    "description2": "$3.99/Sake bomb",
     "drinkType": "Hot Sake"
   },
   {
     "name": "Kendall Jackson, Chardonnay, California",
-    "price": 9.50,
+    "description": "$9.50/Glass",
+    "description1": "$34.00/Bottle",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Chardonnay, California",
+    "description": "$6.50/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Pinot Grigio, California",
+    "description": "$6.50/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, White Zinfandel, California",
+    "description": "$6.50/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Cedar Brook Winery, Sauvignon Blanc, California",
+    "description": "$6.50/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "White Wine"
+  },
+  {
+    "name": "Takara Plum Premium White Wine ",
+    "price": 5.95,
     "description": "Glass",
     "drinkType": "White Wine"
   },
   {
-    "name": "Kendall Jackson, Chardonnay, California",
-    "price": 34.00,
-    "description": "Bottle",
-    "drinkType": "White Wine"
+    "name": "True Grit Reserve, Cabernet Sauvignon, Mendocino",
+    "description": "$12.95/Glass",
+    "description1": "$45.00/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Uppercut, California Cabernet Sauvignon",
+    "description": "$11.95/Glass",
+    "description1": "$42.00/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Cabernet Sauvignon, California",
+    "description": "$6.95/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Merlot, California",
+    "description": "$6.95/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Pinot Noir, California",
+    "description": "$6.95/Glass",
+    "description1": "$25.00/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Salmon Creek Cellars, Brut Sparkling Wine, California",
+    "description": "$8.95/Bottle",
+    "drinkType": "Red Wine"
+  },
+  {
+    "name": "Japanese Whiskey",
+    "drinkType": "Premium Alcohol",
+    "description": "Suntory Toki",
+    "description1": "Suntory Hibiki",
+    "description2": "Suntory Yamazaki 12",
+    "description3": "Tottori"
+  },
+  {
+    "name": " Whiskey",
+    "drinkType": "Premium Alcohol",
+    "description": "Jack Daniel",
+    "description1": "Seagrams 7",
+    "description2": "Fireball",
+    "description3": "Jameison"
+  },
+  {
+    "name": "Scotch Whiskey",
+    "drinkType": "Premium Alcohol",
+    "description": "Chivas Regal",
+    "description1": "Glenfiddish",
+    "description2": "Johnnie Walker Black"
+  },
+  {
+    "name": "Bourbon",
+    "drinkType": "Premium Alcohol",
+    "description": "Basil Hayden’s",
+    "description1": "Jim Beam",
+    "description2": "Knob Creek",
+    "description3": "Maker’s Mark"
+  },
+  {
+    "name": "Vodka",
+    "drinkType": "Premium Alcohol",
+    "description": "Absolut Citron",
+    "description1": "Absolut Mandrin",
+    "description2": "Belvedere",
+    "description3": "Grey Goose",
+    "description4": "Ketel One",
+    "description5": "Stoli",
+    "description6": "Tito’s"
+  },
+  {
+    "name": "Rum",
+    "drinkType": "Premium Alcohol",
+    "description": "Bacardi Superior Silver",
+    "description1": "Bacardi Gold",
+    "description2": "Coconut Rum",
+    "description3": "Captain Morgan",
+    "description4": "Myer’s Dark Rum",
+    "description5": "Rum Chata"
+  },
+  {
+    "name": "Tequila",
+    "drinkType": "Premium Alcohol",
+    "description": "1800",
+    "description1": "Casamigos Blanco",
+    "description2": "Casamigos Reposado",
+    "description3": "Patron"
+  },
+  {
+    "name": "Beers",
+    "description": "$4.99/Small -- $7.99/Large",
+    "description1": "Bud Light",
+    "description2": "Coors Light",
+    "description3": "Corona (Extra)",
+    "description4": "Kirin Light",
+    "description5": "Odouls (Non Alcoholic)",
+    "description6": "Orion Beer Japan (can)",
+    "description7": "Asahi Beer (Super Dry)",
+    "description8": "Kirin Light",
+    "description9": "Kirin Ichiban (Malt)",
+    "description10": "Sapporo Premium Beer (Lager)"
+  },
+  {
+    "name": "Draft Beer - Sapporo",
+    "description": "$5.99/Pint Glass",
+    "description1": "$22.00/Pitcher"
+  },
+  {
+    "name": "Soda (Free refill)",
+    "price": 3.50,
+    "drinkType": "Beverages",
+    "description": "Coke",
+    "description1": "Diet Coke",
+    "description2": "Sprite",
+    "description3": "Root Beer",
+    "description4": "Orange Soda",
+    "description5": "Lemonade",
+    "description6": "Iced Tea",
+    "description7": "Iced Green Tea"
+  },
+  {
+    "name": "Juice (No refill)",
+    "price": 3.50,
+    "drinkType": "Beverages",
+    "description": "Apple Juice",
+    "description1": "Cranberry Juice",
+    "description2": "Orange Juice",
+    "description3": "Pineapple Juice"
+  },
+  {
+    "name": "Hot Green Tea",
+    "price": 2.50,
+    "drinkType": "Beverages",
+    "description": "YAMAnotoYAMA"
+  },
+  {
+    "name": "Dr Pepper, Perrier Bottled Water",
+    "price": 3.50,
+    "drinkType": "Beverages"
+  },
+  {
+    "name": "Ginger Ale, Coke Zero",
+    "price": 3.50,
+    "drinkType": "Beverages",
+    "description": "Can"
+  },
+  {
+    "name": "Ginger Beer, Coconut Water",
+    "price": 3.95,
+    "drinkType": "Beverages"
+  },
+  {
+    "name": "Strawberry Lemonade",
+    "price": 3.95,
+    "drinkType": "Beverages"
+  },
+  {
+    "name": "Piña Colada",
+    "price": 4.95,
+    "drinkType": "Beverages",
+    "description": "Virgin"
   }
 ]
