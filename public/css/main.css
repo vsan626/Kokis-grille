@@ -3273,7 +3273,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 30px;
 }
 .footer-area .number {
-  color: #fff;
+  color: black;
   font-size: 24px;
   font-weight: 600;
   line-height: 30px;
@@ -3292,7 +3292,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #f42f2c;
 }
 .footer-area .single-footer-widget h4 {
-  color: #fff;
+  color: black;
 }
 @media (max-width: 768px) {
   .footer-area .single-footer-widget .newsletter .primary-btn {
@@ -3304,8 +3304,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 .footer-widget-wrap {
-  background: #f42f2c;
-  color: #fff;
+  background: rgb(213, 189, 153);
+  color: black;
 }
 @media (max-width: 991px) {
   .single-footer-widget {

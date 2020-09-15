@@ -15,3 +15,7 @@
 .birthday-area .overlay-bg {
   background: rgba(17, 22, 24, 0.75);
 }
+
+.footer-map {
+  margin: auto;
+}

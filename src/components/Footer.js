@@ -51,7 +51,7 @@ export default function Footer() {
                   1061 East Main Street, Tustin, Ca 92780
                 </p>
                 <div className="d-flex flex-row" id="mc_embed_signup">
-                  <a href="https://maps.google.com/maps?q=Koki%27s+Teppan+House,+East+Main+Street,+Tustin,+CA&hl=en&ll=33.742256,-117.816739&spn=0.013971,0.023947&sll=37.269174,-119.306607&sspn=13.676694,24.521484&oq=kokis+&hq=Koki%27s+Teppan+House,&hnear=E+Main+St,+Tustin,+California+92780&t=m&z=16&iwloc=A">
+                  <a className="footer-map" href="https://maps.google.com/maps?q=Koki%27s+Teppan+House,+East+Main+Street,+Tustin,+CA&hl=en&ll=33.742256,-117.816739&spn=0.013971,0.023947&sll=37.269174,-119.306607&sspn=13.676694,24.521484&oq=kokis+&hq=Koki%27s+Teppan+House,&hnear=E+Main+St,+Tustin,+California+92780&t=m&z=16&iwloc=A">
                     <img
                       src="http://www.kokisgrille.com/wp-content/uploads/2012/08/map.png"
                       alt="Map of location"
