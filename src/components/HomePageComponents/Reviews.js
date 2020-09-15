@@ -1,4 +1,5 @@
 import React from 'react';
+import YelpReviews from '../HomePageComponents/Reviews/YelpReviews'
 
 export default function Reviews() {
   return (
@@ -7,6 +8,7 @@ export default function Reviews() {
       <div className="container">
         <div className="row">
           <div className="active-review-carusel">
+          <YelpReviews />
             <div className="single-review">
               <img src="img/user.png" alt="" />
               <h4>Hulda Sutton</h4>
