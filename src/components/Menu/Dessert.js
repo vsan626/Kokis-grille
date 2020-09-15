@@ -11,7 +11,7 @@ export default function Dessert() {
               <h4>{data.name}</h4>
               <h4 className="price">${data.price.toFixed(2)}</h4>
             </div>
-              {data.description ? <p>{data.description}</p> : null}
+              {data.description ? <p className="menu-description">{data.description}</p> : null}
           </div>
         </div>
       ))}

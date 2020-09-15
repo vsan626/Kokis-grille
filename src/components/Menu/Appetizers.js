@@ -11,7 +11,7 @@ export default function Appetizers() {
               <h4>{data.name}</h4>
               <h4 className="price">${data.price.toFixed(2)}</h4>
             </div>
-            {data.description ? <p>{data.description}</p> : <p></p>}
+            {data.description ? <p className="menu-description">{data.description}</p> : <p></p>}
           </div>
         </div>
       ))}

@@ -17,25 +17,25 @@ export default function Dinner() {
           <div key={key} className="col-md-6 all dinner">
             <div className="single-menu">
               <div className="title-wrap d-flex justify-content-between">
-                <h4>{data.name}</h4>
+                <h4 >{data.name}</h4>
                 <h4 className="price">${data.price.toFixed(2)}</h4>
               </div>
-              <p>
+              <p className="menu-description">
                 <b>{data.menuType}</b>
               </p>
               {data.description ? (
-                <p>
+                <p className="menu-description">
                   <i>{data.description}</i>
                 </p>
               ) : null}
-              {data.description1 ? <p>{data.description1}</p> : null}
+              {data.description1 ? <p className="menu-description">{data.description1}</p> : null}
               {data.additionalDesc ? (
-                <p>
+                <p className="menu-description">
                   <b>{data.additionalDesc}</b>
                 </p>
               ) : null}
               {data.warning ? (
-                <p>
+                <p className="menu-description">
                   <b>{data.warning}</b>
                 </p>
               ) : null}

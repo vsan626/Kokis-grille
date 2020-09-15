@@ -6,6 +6,10 @@
   margin: 0 auto;
 }
 
+.menu-description {
+  margin: auto;
+}
+
 .birthday-area {
   background: url(../img/birthday-bg.png) no-repeat center/cover;
   background-size: contain;
