@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cors());
 app.use('/', express.static(path.join(__dirname, '../public')));
-
+//new api key created! change after figuring out .env file
 app.get('/reviews', (req, res) => {
   axios.get(
     'https://api.yelp.com/v3/businesses/kokis-teppanyaki-grille-tustin/reviews',
