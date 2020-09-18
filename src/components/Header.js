@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link, NavLink } from "react-router-dom";
+
 
 export default function Header() {
   return (
@@ -7,9 +9,9 @@ export default function Header() {
         <div className="container">
           <div className="row justify-content-center">
             <div id="logo">
-              <a href="index.html">
+              <NavLink exact to="/">
                 <img src="img/logo.png" alt="" title="" />
-              </a>
+              </NavLink>
             </div>
           </div>
         </div>
@@ -19,10 +21,10 @@ export default function Header() {
           <nav id="nav-menu-container">
             <ul className="nav-menu">
               <li>
-                <a href="index.html">Home</a>
+                <NavLink exact to="/">Home</NavLink>
               </li>
               <li>
-                <a href="about.html">About</a>
+                <NavLink to="/about">About</NavLink>
               </li>
               <li>
                 <a href="menu.html">Menu</a>
