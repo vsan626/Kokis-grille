@@ -23,3 +23,8 @@
 .footer-map {
   margin: auto;
 }
+
+.reviewUserPictures {
+  height: 80px;
+  width: 80px;
+}

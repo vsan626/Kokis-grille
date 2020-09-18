@@ -23,21 +23,6 @@ export default function YelpReviews() {
   };
 
   useEffect(() => {
-    // async function fetchYelpData () {
-    //   try {
-    //     const reviewData = await axios.get(
-    //       `https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/kokis-teppanyaki-grille-tustin/reviews`,
-    //       {
-    //         headers: {
-    //           Authorization: `Bearer ${yelpApiKey}`
-    //         }
-    //       }
-    //     );
-    //     setReviews(reviewData.data.reviews);
-    //   } catch (error) {
-    //     console.error('error with axios get', error);
-    //   }
-    // }
     fetchYelpData();
   }, []);
 
@@ -105,7 +90,13 @@ export default function YelpReviews() {
         {reviews.map((review, key) => {
           return (
             <div key={key} className="single-review">
-              <img src={review.user.image_url} alt="" />
+              <a href={review.url}>
+              <img
+                className="reviewUserPictures"
+                src={review.user.image_url}
+                alt=""
+              />
+              </a>
               <h4>{review.user.name}</h4>
               {reviewsRating(review.rating)}
               <p>{review.text}</p>
