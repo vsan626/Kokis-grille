@@ -21,12 +21,15 @@ export default class HomePage extends Component {
   render() {
     return (
       <>
+      <div id="header-top">
+
         <Banner handleScrollToMenu={this.handleScrollToMenu} />
         <About />
         <Reservation />
         <Menu menuRef={this.menuRef} />
         <Birthday />
         <Reviews />
+      </div>
       </>
     );
   }

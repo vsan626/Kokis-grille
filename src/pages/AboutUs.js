@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
-
+import Header from '../components/Header'
 export default class AboutUs extends Component {
   render() { 
     return (  
-      <>
+      
+      <div id="header-top">
       <section class="about-banner relative">
       <div class="overlay overlay-bg"></div>
       <div class="container">				
@@ -35,7 +36,7 @@ export default class AboutUs extends Component {
       </div>	
     </section>
     {/* <!-- End home-about Area --> */}
-    </>
+    </div>
     );
   }
 }

@@ -2016,15 +2016,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   letter-spacing: 2px;
 }
 .banner-content h1 {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 700;
   margin: 20px 0;
 }
-@media (max-width: 767px) {
-  .banner-content h1 {
-    font-size: 40px;
-  }
-}
+
 .banner-content p {
   max-width: 515px;
   margin-bottom: 30px;
@@ -2442,7 +2438,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0px;
 }
 .about-banner {
-  background: url(../img/top-banner.jpg) no-repeat bottom right/cover;
+  background: url(../img/top-banner.jpg) no-repeat center right/cover;
   background-size: cover;
 }
 .about-banner .overlay-bg {
