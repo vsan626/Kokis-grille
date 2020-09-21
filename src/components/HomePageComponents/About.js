@@ -1,4 +1,6 @@
 import React from 'react';
+import { NavLink } from "react-router-dom";
+
 
 export default function About() {
   return (
@@ -15,9 +17,12 @@ export default function About() {
               residents of Tustin, Irvine, Santa Ana and Orange that a local
               Teppanyaki House was more than worth the drive.
             </p>
-            <button href="#" className="primary-btn">
+            <NavLink to="/About">
+            <button className="primary-btn">
               More About Us
             </button>
+
+            </NavLink>
           </div>
           <div className="col-lg-6 home-about-right">
             <img className="img-fluid" src="img/about-img.jpg" alt="" />
