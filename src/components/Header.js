@@ -32,7 +32,7 @@ export default function Header() {
                 <NavLink to="/menu">Menu</NavLink>
               </li>
               <li>
-                <a href="contact.html">Contact</a>
+                <NavLink to="/contact">Contact</NavLink>
               </li>
             </ul>
           </nav>

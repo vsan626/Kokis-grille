@@ -3301,7 +3301,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 .footer-widget-wrap {
-  background: rgb(213, 189, 153);
+  background: rgb(245, 245, 245);
   color: black;
 }
 @media (max-width: 991px) {

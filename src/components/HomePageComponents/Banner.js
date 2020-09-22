@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from "react-router-dom";
 
 export default function Banner({ handleScrollToMenu }) {
   return (
@@ -15,12 +16,14 @@ export default function Banner({ handleScrollToMenu }) {
               of steak, chicken and seafood on an iron plate. Come enjoy the
               best Teppanyaki Orange County and the City of Tustin has to offer.
             </p>
+            <NavLink to="/menu">
             <button
               className="primary-btn text-uppercase"
               onClick={handleScrollToMenu}
             >
               Check Our Menu
             </button>{' '}
+            </NavLink>
           </div>
         </div>
       </div>
