@@ -50,3 +50,11 @@
   max-width: 515px;
   margin-bottom: 30px;
 }
+
+.menu-banner {
+  background: url(../img/menu-img.jpg) no-repeat center right/cover;
+  background-size: cover;
+}
+.menu-banner .overlay-bg {
+  background: rgba(4, 9, 30, 0.4);
+}

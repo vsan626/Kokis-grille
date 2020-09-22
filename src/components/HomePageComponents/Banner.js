@@ -3,11 +3,11 @@ import React from 'react';
 export default function Banner({ handleScrollToMenu }) {
   return (
     // {/* <!-- Start banner Area --> */}
-    <section class="banner-area relative">
-      <div class="overlay overlay-bg"></div>
-      <div class="container">
-        <div class="row d-flex align-items-center justify-content-center">
-          <div class="main-banner-content col-lg-12">
+    <section className="banner-area relative">
+      <div className="overlay overlay-bg"></div>
+      <div className="container">
+        <div className="row d-flex align-items-center justify-content-center">
+          <div className="main-banner-content col-lg-12">
             <h6 className="text-white">Delicious</h6>
             <h1 className="text-white">Teppanyaki Cuisine</h1>
             <p className="banner-text text-white">

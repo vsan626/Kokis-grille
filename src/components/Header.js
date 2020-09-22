@@ -1,8 +1,10 @@
 import React from 'react';
+
 import { NavLink } from "react-router-dom";
 
 
 export default function Header() {
+
   return (
     <header id="header">
       <div className="header-top">
@@ -27,7 +29,7 @@ export default function Header() {
                 <NavLink to="/about">About</NavLink>
               </li>
               <li>
-                <a href="menu.html">Menu</a>
+                <NavLink to="/menu">Menu</NavLink>
               </li>
               <li>
                 <a href="gallery.html">Gallery</a>

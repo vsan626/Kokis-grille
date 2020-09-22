@@ -1,23 +1,19 @@
 import React, { Component } from 'react';
 import Banner from '../components/HomePageComponents/Banner';
 import About from '../components/HomePageComponents/About';
-import Menu from '../components/HomePageComponents/Menu';
 import Reservation from '../components/HomePageComponents/Reservation';
 import Birthday from '../components/HomePageComponents/Birthday';
 import Reviews from '../components/HomePageComponents/Reviews';
 
 export default class HomePage extends Component {
-  constructor(props) {
-    super(props);
-    this.menuRef = React.createRef();
-    this.handleScrollToMenu = this.handleScrollToMenu.bind(this);
-  }
-  handleScrollToMenu = () => {
-    window.scrollTo({
-      top: this.menuRef.current.offsetTop,
-      behavior: 'smooth'
-    });
-  };
+  //#region <-- scroll to menu if menu on Homepage -->
+  // handleScrollToMenu = () => {
+  //   window.scrollTo({
+  //     top: this.menuRef.current.offsetTop,
+  //     behavior: 'smooth'
+  //   });
+  // };
+  //#endregion
   render() {
     return (
       <>
@@ -26,7 +22,7 @@ export default class HomePage extends Component {
         <Banner handleScrollToMenu={this.handleScrollToMenu} />
         <About />
         <Reservation />
-        <Menu menuRef={this.menuRef} />
+        {/* <Menu menuRef={this.menuRef} /> */}
         <Birthday />
         <Reviews />
       </div>
