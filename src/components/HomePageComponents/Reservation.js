@@ -9,16 +9,13 @@ export default function Reservation() {
         <div className="row justify-content-between align-items-center">
           <div className="col-lg-6 reservation-center">
             <h1 className="text-white">
-              Reserve Your Seats to Confirm if You Come with Your Family
+              Reserve Your Seats by making a reservation
             </h1>
-            <p className="text-white pt-20">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam. Quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea.
-            </p>
+            <br />
             {/* make button open modal to yelp reservation page */}
-            <button className="primary-btn">Make Reservation</button>
+            <a href="https://www.yelp.com/reservations/kokis-teppanyaki-grille-tustin">
+              <button className="primary-btn">Make Reservation</button>
+            </a>
           </div>
         </div>
       </div>
