@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
 
-import Header from '../components/Header';
-
 export default class AboutUs extends Component {
   render() {
     return (
